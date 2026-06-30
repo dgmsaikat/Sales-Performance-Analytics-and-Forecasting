@@ -124,7 +124,7 @@ A SARIMA time series model was developed to forecast retail sales for the next 1
 
 # 👨‍💻 Author
 
-**Md. Saikat**
+**Saikat Deb**
 
 🎓 Statistics Undergraduate
 
